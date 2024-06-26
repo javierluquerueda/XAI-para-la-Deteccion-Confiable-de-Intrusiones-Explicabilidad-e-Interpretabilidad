@@ -8,7 +8,7 @@ datos de muestra y notebooks con análisis detallados.
 Para poder probar el código sin tener que esperar a cargar los modelos que puede ser costoso computacionalmente, descomprimir todos los zip de una de las carpetas de algún ataque DDoS o PortScan, en una misma carpeta con el archivo de código en la misma carpeta, abrir esa carpeta en visual studio code, con la extensión de jupyter notebook para las salidas renderizadas, y a continuación compilar cada parte del código, una vez todo el código compilado, en la última parte se elige que función ejecutar con sus parámetros, el modelo correspondiente, características datos etc.
 
 
-IMPORTANTE: tener en una carpeta todo descomprimido, eso sí en esta carpeta tener la carpeta dataset que dentro tiene todos los dataset, solo si se quiere cargar los modelos desde 0, si se van a cargar los que ya están guardados no hace falta.
+IMPORTANTE: tener en una carpeta todo descomprimido, eso sí en esta carpeta tener la carpeta dataset que dentro tiene todos los dataset, solo si se quiere cargar los modelos desde 0, si se van a cargar los que ya están guardados no hace falta. Si se quiere hacer desde cero, cargar los modelos y datos de entrenamiento etc, basta con tener en la carpeta la carpeta dataset y a su misma altura el código python.
 
 Cualquier pregunta no dude en consultarme.
 
