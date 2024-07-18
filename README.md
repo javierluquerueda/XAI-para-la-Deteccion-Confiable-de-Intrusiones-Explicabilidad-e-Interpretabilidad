@@ -15,3 +15,4 @@ Cualquier pregunta no dude en consultarme.
 Proyecto realizado por Javier Luque Rueda.
 
 Contacto: javierluke02@gmail.com
+          javierluke02@uma.es
